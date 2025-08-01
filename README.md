@@ -93,37 +93,149 @@ Febrero 2011. Hermosillo, Son.
 
 ## Ponencias científicas
 
-Rodent eradications for seabird conservation: Improving the evaluation of aerial bait dispersion. Evaristo Rojas-Mayoral, A. Samaniego-Herrera, F.A. Méndez-Sánchez, Alfonso Aguirre-Muñoz. 43rd Pacific Seabird Group Annual Meeting. February 2016. Oahu, Hawaii.
-Computational analysis to estimate distribution of seabird species, and density of nests and burrows on Mexican islands. Evaristo M. Rojas-Mayoral, J. Hernández-Montoya, J.D. Martínez-Cervantes, Y. Lora-Cabrera, Alfonso Aguirre-Muñoz. 43rd Pacific Seabird Group Annual Meeting. Feb. 2016. Oahu, Hawaii.
-Identificación de Estructuras Coherentes Lagrangeanas, Presentes en la Bahía de Todos Santos, Utilizando Datos de Numeración Numérica. L Daniel Quinn Cervantes, Evaristo Rojas-Mayoral, Rafael Hernández-Walls, Rubén Castro Valdez. XVIII Congreso Nacional de Oceanografía. Jun. 2014. La Paz, B.C.S.
-Inferencia de Salinidad y Temperatura usando Algoritmos Genéticos. J David Martinez Cervantes, Evaristo Rojas-Mayoral, Rafael Hernández-Walls. XVIII Congreso Nacional de Oceanografía. Junio 2014. La Paz, B.C.S.
-Uso de Algoritmos Genéticos en la Tomografía Acústica del Océano. Andrea Bustillos-Gorosave, Evaristo Rojas-Mayoral. 6to. Congreso Internacional en Ciencias Computacionales. Nov. 2013. Ensenada, B.C.
-Propuesta de un instrumento de medición de oleaje como herramienta para la enseñanza de Física. Rafael Hernández-Walls, Evaristo Rojas-Mayoral. Reunión Anual 2013, American Association of Physics Teachers, Sección México. Noviembre 2013. Ensenada, B.C.
-Corrientes inducidas por marea y transporte de sedimentos en una laguna costera. Andrea Bustillos-Gorosave, Evaristo Rojas-Mayoral. 5to. Congreso Internacional en Ciencias Computacionales. Noviembre 2012. Ensenada, B.C.
-Determinación de salinidad y temperatura en un volumen de agua usando Algoritmos Genéticos. J David Martinez Cervantes, Evaristo Rojas-Mayoral. XVII Congreso Nacional de Oceanografía. Septiembre 2012. San Francisco de Campeche, Camp.
-Ajuste de la función de distribución de probabilidad generalizada a alturas de oleaje usando algoritmos genéticos. Braulio Rojas-Mayoral, Evaristo Rojas-Mayoral. LV Congreso Nacional de Física. Octubre 2012. Morelia, Mich.
-Modelo de hidrodinámica en cuerpos costeros someros y su aplicación en el Estero Urías. Premio Nacional de Oceanografía. Andrea Bustillos-Gorosave, Evaristo Rojas-Mayoral. XVII Congreso Nacional de Oceanografía. Septiembre 2012. San Francisco de Campeche, Camp.
-Optimización de un proceso industrial con algoritmos genéticos. Víctor M. Herrera-Jiménez, Evaristo Rojas-Mayoral, Claudio A. López-Miranda. IV Taller Iberoamericano de Investigación de Operaciones. Noviembre 2011. Acapulco, Gro.
-Algoritmos Genéticos para Determinar la Dirección del Viento a partir de Información de Radares de Alta Frecuencia. Evaristo Rojas-Mayoral, Rafael Hernández-Walls, Francisco J. Ocampo-Torres, Reginaldo Durazo-Arvizu. 3er. Congreso Internacional en Ciencias Computacionales. Nov. 2010. Ensenada, B.C.
-Estimación del Perfil Vertical de Clorofila usando Algoritmos Genéticos. Rafael Hernández-Walls, Evaristo Rojas-Mayoral, Alejandra Sánchez, Marla Macías, Roberto Millán-Núñez. XV Congreso Nacional de Oceanografía; II Reunión Internacional de Ciencias Marinas. Octubre 2008. Boca del Río, Ver.
-Evaluating the Relative Importance of the Terms of the Navier-Stokes Equations. Evaristo Rojas-Mayoral. Annual Meeting of the Society for Industrial and Applied Mathematics. Julio 2008. San Diego, CA.
-Optimización de procesos con respuestas múltiples. Evaristo Rojas-Mayoral. V Simposio Estudiantil de la Facultad de Ciencias. Diciembre 2007. Ensenada, B.C.
-Dirección del viento superficial en el golfo Tehuantepec usando un sistema de radares de alta frecuencia y algoritmos genéticos. Evaristo Rojas-Mayoral, Rafael Hernandez-Walls. V Simposio Estudiantil de la Facultad de Ciencias. Diciembre 2007. Ensenada, B.C.
-Algoritmos genéticos en la oceanología: distribución vertical de fitoplancton. Alejandra Sánchez, Marla Macías, Rafael Hernández-Walls, Evaristo Rojas-Mayoral. XV Congreso Estudiantil de la Facultad de Ciencias Marinas. Octubre 2007. Ensenada, B.C.
-Avances recientes en la medición de la dirección del viento superficial en el Golfo de Tehuantepec usando un sistema de radares HF. Evaristo Rojas-Mayoral, Rafael Hernández-Walls. XV Congreso Estudiantil de la Facultad de Ciencias Marinas. Octubre 2007. Ensenada, B.C.
-Recent advances to measure surface winds using HF radar system in the Gulf of Tehuantepec.
-Evaristo Rojas-Mayoral, Rafael Hernández-Walls, Francisco J. Ocampo-Torres. 1st  International Meeting of Students in Physical Oceanography. Junio 2007. Ensenada, B.C.
-Recent advances to measure surface winds using HF radar system in the Gulf of Tehuantepec.
-Evaristo Rojas-Mayoral, Rafael Hernández-Walls, Francisco J. Ocampo-Torres. Radiowave Oceanography Workshop. Mayo 2007. Cancún, Q. Roo.
-Dirección del Viento en el Golfo de Tehuantepec usando Radares HF. Evaristo Rojas-Mayoral, Rafael Hernández-Walls, Francisco J. Ocampo-Torres. Taller del Programa de Estudios del Golfo de Tehuantepec. Marzo 2007. Ensenada, B.C.
-Importancia relativa de los términos de la ecuación de movimiento para las corrientes superficiales en la zona costera entre EEUU y México. Rafael Hernández-Walls, Evaristo Rojas-Mayoral. IV Reunión Nacional de Ciencias de la Tierra. Noviembre 2004. Juriquilla, Qro.
-Importancia relativa de los términos de las ecuaciones de movimiento. Evaristo Rojas-Mayoral, Rafael Hernández-Walls. XII Congreso Estudiantil de Oceanología. Octubre 2004. Ensenada, B.C.
-Diseño y construcción de un sensor de oleaje. 2do lugar categoría básica. Leonardo Báez-Castillo, Rafael Hernández-Walls, Evaristo Rojas-Mayoral. XII Congreso Estudiantil de Oceanología. Oct. 2004. Ensenada, B.C.
-Dirección de viento por radar de alta frecuencia. Evaristo Rojas-Mayoral, Rafael Hernández-Walls
-XI Congreso Estudiantil de Oceanología. Octubre 2003. Ensenada, B.C.
-Prototipo para medir la velocidad de un fluido. 2do lugar categoría básica. Braulio Rojas-Mayoral, Leonardo Báez-Castillo, Rafael Hernández-Walls, Evaristo Rojas-Mayoral. XI Congreso Estudiantil de Oceanología. Octubre 2003. Ensenada, B.C.
-Corrientes por viento y gradientes de presión. Evaristo Rojas-Mayoral, Rafael Hernández-Walls. X Congreso Estudiantil de Oceanología. Octubre 2002. Ensenada, B.C.
-El mouse como dispositivo para la medición de variables oceanográficas. Premio a la mejor innovación tecnológica aplicada a la oceanología. Evaristo Rojas-Mayoral, Rafael Hernández-Walls. IX Congreso Estudiantil de Oceanología. Noviembre 2001. Ensenada, B.C.
+**Rodent eradications for seabird conservation: Improving the evaluation of aerial bait dispersion.**\
+Evaristo Rojas-Mayoral, A. Samaniego-Herrera, F.A. Méndez-Sánchez, Alfonso Aguirre-Muñoz.\
+43rd Pacific Seabird Group Annual Meeting.\
+February 2016. Oahu, Hawaii.
+
+**Computational analysis to estimate distribution of seabird species, and density of nests and burrows on Mexican islands.**\
+Evaristo M. Rojas-Mayoral, J. Hernández-Montoya, J.D. Martínez-Cervantes, Y. Lora-Cabrera, Alfonso Aguirre-Muñoz.\
+43rd Pacific Seabird Group Annual Meeting.\
+February 2016. Oahu, Hawaii.
+
+**Identificación de Estructuras Coherentes Lagrangeanas, Presentes en la Bahía de Todos Santos, Utilizando Datos de Numeración Numérica.**\
+L Daniel Quinn Cervantes, Evaristo Rojas-Mayoral, Rafael Hernández-Walls, Rubén Castro Valdez.\
+XVIII Congreso Nacional de Oceanografía.\
+Junio 2014. La Paz, B.C.S.
+
+**Inferencia de Salinidad y Temperatura usando Algoritmos Genéticos.**\
+J David Martinez Cervantes, Evaristo Rojas-Mayoral, Rafael Hernández-Walls.\
+XVIII Congreso Nacional de Oceanografía.\
+Junio 2014. La Paz, B.C.S.
+
+**Uso de Algoritmos Genéticos en la Tomografía Acústica del Océano.**\
+Andrea Bustillos-Gorosave, Evaristo Rojas-Mayoral.\
+6to. Congreso Internacional en Ciencias Computacionales.\
+Nov. 2013. Ensenada, B.C.
+
+**Propuesta de un instrumento de medición de oleaje como herramienta para la enseñanza de Física.**\
+Rafael Hernández-Walls, Evaristo Rojas-Mayoral.\
+Reunión Anual 2013, American Association of Physics Teachers, Sección México.\
+Noviembre 2013. Ensenada, B.C.
+
+**Corrientes inducidas por marea y transporte de sedimentos en una laguna costera.**\
+Andrea Bustillos-Gorosave, Evaristo Rojas-Mayoral.\
+5to. Congreso Internacional en Ciencias Computacionales.\
+Noviembre 2012. Ensenada, B.C.
+
+**Determinación de salinidad y temperatura en un volumen de agua usando Algoritmos Genéticos.**\
+J David Martinez Cervantes, Evaristo Rojas-Mayoral.\
+XVII Congreso Nacional de Oceanografía.\
+Septiembre 2012. San Francisco de Campeche, Camp.
+
+**Ajuste de la función de distribución de probabilidad generalizada a alturas de oleaje usando algoritmos genéticos.**\
+Braulio Rojas-Mayoral, Evaristo Rojas-Mayoral.\
+LV Congreso Nacional de Física.\
+Octubre 2012. Morelia, Mich.
+
+**Modelo de hidrodinámica en cuerpos costeros someros y su aplicación en el Estero Urías.**\
+_Premio Nacional de Oceanografía._\
+Andrea Bustillos-Gorosave, Evaristo Rojas-Mayoral.\
+XVII Congreso Nacional de Oceanografía.\
+Septiembre 2012. San Francisco de Campeche, Camp.
+
+**Optimización de un proceso industrial con algoritmos genéticos.**\
+Víctor M. Herrera-Jiménez, Evaristo Rojas-Mayoral, Claudio A. López-Miranda.\
+IV Taller Iberoamericano de Investigación de Operaciones.\
+Noviembre 2011. Acapulco, Gro.
+
+**Algoritmos Genéticos para Determinar la Dirección del Viento a partir de Información de Radares de Alta Frecuencia.**\
+Evaristo Rojas-Mayoral, Rafael Hernández-Walls, Francisco J. Ocampo-Torres, Reginaldo Durazo-Arvizu.\
+3er. Congreso Internacional en Ciencias Computacionales.\
+Noviembre 2010. Ensenada, B.C.
+
+**Estimación del Perfil Vertical de Clorofila usando Algoritmos Genéticos.**\
+Rafael Hernández-Walls, Evaristo Rojas-Mayoral, Alejandra Sánchez, Marla Macías, Roberto Millán-Núñez.\
+XV Congreso Nacional de Oceanografía; II Reunión Internacional de Ciencias Marinas.\
+Octubre 2008. Boca del Río, Ver.
+
+**Evaluating the Relative Importance of the Terms of the Navier-Stokes Equations.**\
+Evaristo Rojas-Mayoral.\
+Annual Meeting of the Society for Industrial and Applied Mathematics.\
+Julio 2008. San Diego, CA.
+
+**Optimización de procesos con respuestas múltiples.**\
+Evaristo Rojas-Mayoral.\
+V Simposio Estudiantil de la Facultad de Ciencias.\
+Diciembre 2007. Ensenada, B.C.
+
+**Dirección del viento superficial en el golfo Tehuantepec usando un sistema de radares de alta frecuencia y algoritmos genéticos.**\
+Evaristo Rojas-Mayoral, Rafael Hernandez-Walls.\
+V Simposio Estudiantil de la Facultad de Ciencias.\
+Diciembre 2007. Ensenada, B.C.
+
+**Algoritmos genéticos en la oceanología: distribución vertical de fitoplancton.**\
+Alejandra Sánchez, Marla Macías, Rafael Hernández-Walls, Evaristo Rojas-Mayoral.\
+XV Congreso Estudiantil de la Facultad de Ciencias Marinas.\
+Octubre 2007. Ensenada, B.C.
+
+**Avances recientes en la medición de la dirección del viento superficial en el Golfo de Tehuantepec usando un sistema de radares HF.**\
+Evaristo Rojas-Mayoral, Rafael Hernández-Walls.\
+XV Congreso Estudiantil de la Facultad de Ciencias Marinas.\
+Octubre 2007. Ensenada, B.C.
+
+**Recent advances to measure surface winds using HF radar system in the Gulf of Tehuantepec.**\
+Evaristo Rojas-Mayoral, Rafael Hernández-Walls, Francisco J. Ocampo-Torres.\
+1st  International Meeting of Students in Physical Oceanography.\
+Junio 2007. Ensenada, B.C.
+
+**Recent advances to measure surface winds using HF radar system in the Gulf of Tehuantepec.**\
+Evaristo Rojas-Mayoral, Rafael Hernández-Walls, Francisco J. Ocampo-Torres.\
+Radiowave Oceanography Workshop.\
+Mayo 2007. Cancún, Q.Roo.
+
+**Dirección del Viento en el Golfo de Tehuantepec usando Radares HF.**\
+Evaristo Rojas-Mayoral, Rafael Hernández-Walls, Francisco J. Ocampo-Torres.\
+Taller del Programa de Estudios del Golfo de Tehuantepec.\
+Marzo 2007. Ensenada, B.C.
+
+**Importancia relativa de los términos de la ecuación de movimiento para las corrientes superficiales en la zona costera entre EEUU y México.**\
+Rafael Hernández-Walls, Evaristo Rojas-Mayoral.\
+IV Reunión Nacional de Ciencias de la Tierra.\
+Noviembre 2004. Juriquilla, Qro.
+
+**Importancia relativa de los términos de las ecuaciones de movimiento.**\
+Evaristo Rojas-Mayoral, Rafael Hernández-Walls.\
+XII Congreso Estudiantil de Oceanología.\
+Octubre 2004. Ensenada, B.C.
+
+**Diseño y construcción de un sensor de oleaje.**\
+_2do lugar categoría básica._\
+Leonardo Báez-Castillo, Rafael Hernández-Walls, Evaristo Rojas-Mayoral.\
+XII Congreso Estudiantil de Oceanología.\
+Octubre 2004. Ensenada, B.C.
+
+**Dirección de viento por radar de alta frecuencia.**\
+Evaristo Rojas-Mayoral, Rafael Hernández-Walls.\
+XI Congreso Estudiantil de Oceanología.\
+Octubre 2003. Ensenada, B.C.
+
+**Prototipo para medir la velocidad de un fluido.**\
+_2do lugar categoría básica._\
+Braulio Rojas-Mayoral, Leonardo Báez-Castillo, Rafael Hernández-Walls, Evaristo Rojas-Mayoral.\
+XI Congreso Estudiantil de Oceanología.\
+Octubre 2003. Ensenada, B.C.
+
+**Corrientes por viento y gradientes de presión.**\
+Evaristo Rojas-Mayoral, Rafael Hernández-Walls.\
+X Congreso Estudiantil de Oceanología.\
+Octubre 2002. Ensenada, B.C.
+
+**El mouse como dispositivo para la medición de variables oceanográficas.**\
+_Premio a la mejor innovación tecnológica aplicada a la oceanología._\
+Evaristo Rojas-Mayoral, Rafael Hernández-Walls.\
+IX Congreso Estudiantil de Oceanología.\
+Noviembre 2001. Ensenada, B.C.
 
 ## Experiencia Profesional
 
