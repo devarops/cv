@@ -2,6 +2,10 @@
 
 > Curriculum vitae
 
+**Director de Ciencia de Datos en el Grupo de Ecología y Conservación de Islas (GECI).**\
+Desarrollamos análisis cuantitativos y herramientas computacionales que apoyan la restauración ecológica de ecosistemas insulares.
+Mi formación es en matemáticas, oceanografía física y programación. Mi misión es transformar datos complejos en decisiones estratégicas para el bienestar de las islas de México, con un enfoque en la reproducibilidad y la colaboración.
+
 ## Estudios Profesionales y Técnicos
 
 **Maestría en Oceanografía Física.**\
