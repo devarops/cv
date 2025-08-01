@@ -5,23 +5,23 @@
 ## Estudios Profesionales y Técnicos
 
 **Maestría en Oceanografía Física.**\
-Tesis: _Estimación de la dirección del viento en el Golfo de Tehuantepec usando radares de alta frecuencia y algoritmos genéticos._<br>
-Centro de Investigación Científica y de Educación Superior de Ensenada (CICESE).
-Ensenada B.C. 2009.
+Tesis: _Estimación de la dirección del viento en el Golfo de Tehuantepec usando radares de alta frecuencia y algoritmos genéticos._\
+Centro de Investigación Científica y de Educación Superior de Ensenada (CICESE).\
+Ensenada, B.C., 2009.
 
-Licenciatura en Matemáticas Aplicadas.
-Facultad de Ciencias, Universidad Autónoma de Baja California (UABC).
-Ensenada B.C. 2014.
+**Licenciatura en Matemáticas Aplicadas.**\
+Facultad de Ciencias, Universidad Autónoma de Baja California (UABC).\
+Ensenada, B.C., 2014.
 
-Licenciatura en Oceanología.
-Tesis: Evaluación de la importancia relativa de los términos de la ecuación de movimiento para las corrientes superficiales en la zona costera fronteriza México-EUA usando información de radares de alta frecuencia.
-Facultad de Ciencias Marinas, UABC.
-Ensenada B.C. 2004.
+**Licenciatura en Oceanología.**\
+Tesis: _Evaluación de la importancia relativa de los términos de la ecuación de movimiento para las corrientes superficiales en la zona costera fronteriza México-EUA usando información de radares de alta frecuencia._\
+Facultad de Ciencias Marinas, UABC.\
+Ensenada, B.C., 2004.
 
-Técnico Programador de Computadoras.
-Implementación del sistema computacional QM-2000 para la enseñanza de química.
-Centro de Bachillerato Tecnológico Industrial y de Servicios (CBTIS) No. 206.
-Hermosillo Son. 1998.
+**Técnico Programador de Computadoras.**\
+_Implementación del sistema computacional QM-2000 para la enseñanza de química._\
+Centro de Bachillerato Tecnológico Industrial y de Servicios (CBTIS) No. 206.\
+Hermosillo, Son., 1998.
 
 ## Publicaciones Arbitradas
 
