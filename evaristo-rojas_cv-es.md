@@ -4,7 +4,8 @@
 
 **Director de Ciencia de Datos en el Grupo de Ecología y Conservación de Islas (GECI).**\
 Desarrollamos análisis cuantitativos y herramientas computacionales que apoyan la restauración ecológica de ecosistemas insulares.
-Mi formación es en matemáticas, oceanografía física y programación. Mi misión es transformar datos complejos en decisiones estratégicas para el bienestar de las islas de México, con un enfoque en la reproducibilidad y la colaboración.
+Mi formación es en matemáticas, oceanografía física y programación.
+Mi misión es transformar datos complejos en decisiones estratégicas para el bienestar de las islas de México, con un enfoque en la reproducibilidad y la colaboración.
 
 ## Áreas de especialidad
 
@@ -271,7 +272,7 @@ Noviembre 2001. Ensenada, B.C.
 _Director de Ciencia de Datos._\
 Lidera el desarrollo de análisis cuantitativos y herramientas computacionales que respaldan la restauración ecológica de los ecosistemas insulares de México.
 
-**Universidad Autónoma de Baja California,  Facultad de Ciencias Marinas**\
+**Universidad Autónoma de Baja California, Facultad de Ciencias Marinas**\
 2010 - 2014\
 _Profesor por asignatura._\
 Impartió cursos y talleres a nivel licenciatura en matemáticas, física, programación y modelación numérica aplicadas a las ciencias marinas.
@@ -332,7 +333,7 @@ Mayo 2009
 _Lorax Consultores_\
 Septiembre 2008
 
-**Estudios batimétricos en el área de Costa Azul, B. C.**\
+**Estudios batimétricos en el área de Costa Azul, B.C.**\
 _China Harbour - Costain_\
 Septiembre 2007
 
@@ -341,14 +342,14 @@ _Pronatura Noroeste - JABA_\
 Septiembre 2007
 
 **Identificación de peces en costas insulares del Golfo de California**\
-_Grupo de Ecología y Conservación de Islas, A.C._\
+_Grupo de Ecología y Conservación de Islas_\
 Abril 2006
 
-**Actualización de estudios de dinámica costera para la construcción de un puerto en el área de Costa Azul, B. C.**\
+**Actualización de estudios de dinámica costera para la construcción de un puerto en el área de Costa Azul, B.C.**\
 _Lorax Consultores_\
 Febrero 2006
 
-**Recolección de muestras de sedimentos intermareales, para análisis de hidrocarburos y fauna en la Playa Municipal de Ensenada, B. C.**\
+**Recolección de muestras de sedimentos intermareales, para análisis de hidrocarburos y fauna en la Playa Municipal de Ensenada, B.C.**\
 _Lorax Consultores_\
 Febrero 2006
 
@@ -360,7 +361,7 @@ Mayo 2005
 _Proyectos Digitales_\
 Diciembre 2004
 
-**Determinación de climatología del oleaje y parámetros de diseño para la construcción de obras costeras en Bahía Salsipuedes, B. C.**\
+**Determinación de climatología del oleaje y parámetros de diseño para la construcción de obras costeras en Bahía Salsipuedes, B.C.**\
 _Lorax Consultores_\
 Octubre 2003
 
