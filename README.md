@@ -239,104 +239,106 @@ Noviembre 2001. Ensenada, B.C.
 
 ## Experiencia Profesional
 
-Grupo de Ecología y Conservación de Islas
-Director de Ciencia de Datos.
-Desde 2014.
-Evaristo dirige el desarrollo de diversos estudios y aplicaciones de apoyo para la toma de decisiones y ejecución de proyectos de conservación de las islas de México.
-Los objetivos del equipo que Evaristo dirige son tres. Optimizar los recursos para la conservación. Evaluar cuantitativamente el desempeño de los proyectos de restauración. Y predecir el efecto de diferentes escenarios sobre las poblaciones ecológicas que protegemos. 
+**Grupo de Ecología y Conservación de Islas**\
+2014 - Presente\
+_Director de Ciencia de Datos._\
+Lidera el desarrollo de análisis cuantitativos y herramientas computacionales que respaldan la restauración ecológica de los ecosistemas insulares de México.
 
-Universidad Autónoma de Baja California,  Facultad de Ciencias Marinas
-Profesor por asignatura e impartición de talleres a nivel licenciatura.
-2010 a 2014.
-Cálculo I: 2010-1, 2010-2, 2011-1, 2011-2, 2012-1, 2013-2, 2014-1, 2014-2.
-Ecología Marina: 2014-2.
-Computación Básica: 2014-2.
-Matemáticas: 2013-1.
-Física II: 2010-2.
-Laboratorio de Física I: 2010-1.
-Taller de introducción a la programación en R: 2014-1.
-Taller de edición de artículos en LaTeX: 2014-1.
-Taller de modelación numérica del oleaje usando REF/DIF: 2013-1.
+**Universidad Autónoma de Baja California,  Facultad de Ciencias Marinas**\
+2010 - 2014\
+_Profesor por asignatura._\
+Impartió cursos y talleres a nivel licenciatura en matemáticas, física, programación y modelación numérica aplicadas a las ciencias marinas.
 
-Consultoría por proyectos
-Desarrollo de software en MATLAB para el análisis de dispersión aérea de rodenticida
-Grupo de Ecología y Conservación de Islas, A.C.
+- **Cálculo I:** 2010-1, 2010-2, 2011-1, 2011-2, 2012-1, 2013-2, 2014-1, 2014-2.
+- **Ecología Marina:** 2014-2.
+- **Computación Básica:** 2014-2.
+- **Matemáticas:** 2013-1.
+- **Física II:** 2010-2.
+- **Laboratorio de Física I:** 2010-1.
+- **Taller de introducción a la programación en R:** 2014-1.
+- **Taller de edición de artículos en LaTeX:** 2014-1.
+- **Taller de modelación numérica del oleaje usando REF/DIF:** 2013-1.
+
+### Consultoría por proyectos
+
+**Desarrollo de software en MATLAB para el análisis de dispersión aérea de rodenticida**\
+_Grupo de Ecología y Conservación de Islas, A.C._\
 Agosto 2013
 
-Estudios batimétricos en el puerto de El Sauzal, B.C.
-LORAX Consultores
+**Estudios batimétricos en el puerto de El Sauzal, B.C.**\
+_LORAX Consultores_\
 Diciembre 2012
 
-Simulación numérica del oleaje frente a la Bahía de San Quintín, B.C.
-Instituto de Investigaciones Oceanológicas, UABC
+**Simulación numérica del oleaje frente a la Bahía de San Quintín, B.C.**\
+_Instituto de Investigaciones Oceanológicas, UABC_\
 Agosto 2012
 
-Simulación numérica del oleaje en una costa aledaña a El Rosario, B.C. para determinar cambios inducidos por una estructura costera
-Consultoría BIOS
+**Simulación numérica del oleaje en una costa aledaña a El Rosario, B.C. para determinar cambios inducidos por una estructura costera**\
+_Consultoría BIOS_\
 Mayo 2012
 
-Simulación numérica de datos históricos de oleaje en el Océano Pacífico
-Instituto de Investigaciones Oceanológicas, UABC
+**Simulación numérica de datos históricos de oleaje en el Océano Pacífico**\
+_Instituto de Investigaciones Oceanológicas, UABC_\
 Diciembre 2011
 
-Procesamiento de la base de datos oceanográficos del grupo de oleaje del CICESE
-Centro de Investigación Científica y de Educación Superior de Ensenada
+**Procesamiento de la base de datos oceanográficos del grupo de oleaje del CICESE**\
+_Centro de Investigación Científica y de Educación Superior de Ensenada_\
 Diciembre 2010
 
-Cálculo de los parámetros de diseño para la construcción de un puerto en las costas de Rosarito, BC.
-Proyectos Digitales
+**Cálculo de los parámetros de diseño para la construcción de un puerto en las costas de Rosarito, BC.**\
+_Proyectos Digitales_\
 Febrero 2010
 
-Modelación de la dinámica costera alrededor de un puerto en Tuxpan, Ver.
-LORAX Consultores
+**Modelación de la dinámica costera alrededor de un puerto en Tuxpan, Ver.**\
+_LORAX Consultores_\
 Diciembre 2009
 
-Revisión de los parámetros de diseño de las estructuras del proyecto de desarrollo del puerto de El Sauzal, B.C.
-LORAX Consultores
+**Revisión de los parámetros de diseño de las estructuras del proyecto de desarrollo del puerto de El Sauzal, B.C.**\
+_LORAX Consultores_\
 Noviembre 2009
 
-Simulación numérica del oleaje para probar una estructura costera en Primo Tapia B.C.
-Proyectos Digitales
+**Simulación numérica del oleaje para probar una estructura costera en Primo Tapia B.C.**\
+_Proyectos Digitales_\
 Mayo 2009
 
-Programa de Manejo de la Erosión Costera en la Celda Litoral III de la Bahía de Todos Santos, Baja California (ProMEC-III)
-LORAX Consultores
+**Programa de Manejo de la Erosión Costera en la Celda Litoral III de la Bahía de Todos Santos, Baja California (ProMEC-III)**\
+_LORAX Consultores_\
 Septiembre 2008
 
-Estudios batimétricos en el área de Costa Azul, B. C.
-China Harbour - Costain
+**Estudios batimétricos en el área de Costa Azul, B. C.**\
+_China Harbour - Costain_\
 Septiembre 2007
 
-Identificación de Flora y Fauna Marina de la Región Bahía de los Ángeles
-Pronatura Noroeste - JABA
+**Identificación de Flora y Fauna Marina de la Región Bahía de los Ángeles**\
+_Pronatura Noroeste - JABA_\
 Septiembre 2007
 
-Identificación de peces en costas insulares del Golfo de California
-Grupo de Ecología y Conservación de Islas, A.C.
+**Identificación de peces en costas insulares del Golfo de California**\
+_Grupo de Ecología y Conservación de Islas, A.C._\
 Abril 2006
 
-Actualización de estudios de dinámica costera para la construcción de un puerto en el área de Costa Azul, B. C.
-LORAX Consultores
+**Actualización de estudios de dinámica costera para la construcción de un puerto en el área de Costa Azul, B. C.**\
+_LORAX Consultores_\
 Febrero 2006
 
-Recolección de muestras de sedimentos intermareales, para análisis de hidrocarburos y fauna en la Playa Municipal de Ensenada, B. C.
-LORAX Consultores
+**Recolección de muestras de sedimentos intermareales, para análisis de hidrocarburos y fauna en la Playa Municipal de Ensenada, B. C.**\
+_LORAX Consultores_\
 Febrero 2006
 
-Diseño e implementación del sitio web http://www.lorax.com.mx
-LORAX Consultores
+**Diseño e implementación del sitio web http://www.lorax.com.mx**\
+_LORAX Consultores_\
 Mayo 2005
 
-Simulación numérica del oleaje para probar una estructura costera en Rosarito, B.C.
-Proyectos Digitales
+**Simulación numérica del oleaje para probar una estructura costera en Rosarito, B.C.**\
+_Proyectos Digitales_\
 Diciembre 2004
 
-Determinación de climatología del oleaje y parámetros de diseño para la construcción de obras costeras en Bahía Salsipuedes, B. C.
-LORAX Consultores
+**Determinación de climatología del oleaje y parámetros de diseño para la construcción de obras costeras en Bahía Salsipuedes, B. C.**\
+_LORAX Consultores_\
 Octubre 2003
 
-Estudio de dinámica costera para la construcción de un puerto en el área de Costa Azul, B.C.
-LORAX Consultores
+**Estudio de dinámica costera para la construcción de un puerto en el área de Costa Azul, B.C.**\
+_LORAX Consultores_\
 Abril 2003
 
 ## Habilidades
