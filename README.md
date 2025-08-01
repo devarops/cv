@@ -2,14 +2,8 @@
 
 > Curriculum vitae
 
-Datos Generales
-Nombre completo: Evaristo Manuel Rojas Mayoral
-Lugar de nacimiento: Hermosillo, Sonora, México
-Fecha de nacimiento: 9 de octubre de 1980
-Email: evaristo.rojas@islas.org.mx
-Tels. 646.173 4943 y 173 4997
+## Estudios Profesionales y Técnicos
 
-Estudios Profesionales y Técnicos
 Maestría en Oceanografía Física.
 Tesis: Estimación de la dirección del viento en el Golfo de Tehuantepec usando radares de alta frecuencia y algoritmos genéticos.
 Centro de Investigación Científica y de Educación Superior de Ensenada (CICESE).
@@ -29,7 +23,7 @@ Implementación del sistema computacional QM-2000 para la enseñanza de química
 Centro de Bachillerato Tecnológico Industrial y de Servicios (CBTIS) No. 206.
 Hermosillo Son. 1998.
 
-Publicaciones Arbitradas
+## Publicaciones Arbitradas
 
 Méndez Sánchez, F; Y Bedolla Guzmán, E Rojas-Mayoral, A Aguirre-Muñoz, P Koleff, A Aguilar Vargas, F Álvarez Santana, G Arnaud, A Aztorga Ornelas, LF Beltrán Morales, M Bello Yáñez, H Berlanga García, E Bravo Hernández, A Cárdenas Tapia, A Castellanos Vera, M Corrales Sauceda, A Duarte Canizales, A Fabila Blanco, M Félix Lizárraga, A Fernández Robledo, JC Hernández Montoya, A Hernández Ríos, E Iñigo-Elias, Á Méndez Rosas, B Rojas Mayoral, F Solís Carlos, A Ortega-Rubio. 2022. Population trends of seabirds in Mexican Islands at the California Current System. PLOS ONE 17 (11):e0258632. DOI: 10.1371/journal.pone.0258632
 
@@ -61,7 +55,8 @@ Hernández-Walls R, Rojas-Mayoral E, Baéz-Castillo L, Rojas-Mayoral B. (2008). 
 
 Hernández-Walls R, Luna-Hernández JR, Rojas-Mayoral E, Navarro-Olache LF. (2004). Dispositivo electrónico de fácil construcción para medir la velocidad de un fluido. Ingeniería hidráulica en México. 19(4):121-128
 
-Participación en Comités de Tesis
+## Participación en Comités de Tesis
+
 Identificación de estructuras coherentes lagrangianas presentes en la Bahía de Todos Santos, Baja California, con información de radares de alta frecuencia.
 Director del comité de tesis de Oceanología (licenciatura) de
 Luis Daniel Quinn-Cervantes
@@ -75,7 +70,9 @@ Vocal del Jurado en el Examen Profesional de Licenciatura en Física de
 Braulio J. Rojas-Mayoral.
 Departamento de Física, Universidad de Sonora
 Febrero 2011. Hermosillo, Son.
-Ponencias científicas
+
+## Ponencias científicas
+
 Rodent eradications for seabird conservation: Improving the evaluation of aerial bait dispersion. Evaristo Rojas-Mayoral, A. Samaniego-Herrera, F.A. Méndez-Sánchez, Alfonso Aguirre-Muñoz. 43rd Pacific Seabird Group Annual Meeting. February 2016. Oahu, Hawaii.
 Computational analysis to estimate distribution of seabird species, and density of nests and burrows on Mexican islands. Evaristo M. Rojas-Mayoral, J. Hernández-Montoya, J.D. Martínez-Cervantes, Y. Lora-Cabrera, Alfonso Aguirre-Muñoz. 43rd Pacific Seabird Group Annual Meeting. Feb. 2016. Oahu, Hawaii.
 Identificación de Estructuras Coherentes Lagrangeanas, Presentes en la Bahía de Todos Santos, Utilizando Datos de Numeración Numérica. L Daniel Quinn Cervantes, Evaristo Rojas-Mayoral, Rafael Hernández-Walls, Rubén Castro Valdez. XVIII Congreso Nacional de Oceanografía. Jun. 2014. La Paz, B.C.S.
@@ -107,7 +104,9 @@ XI Congreso Estudiantil de Oceanología. Octubre 2003. Ensenada, B.C.
 Prototipo para medir la velocidad de un fluido. 2do lugar categoría básica. Braulio Rojas-Mayoral, Leonardo Báez-Castillo, Rafael Hernández-Walls, Evaristo Rojas-Mayoral. XI Congreso Estudiantil de Oceanología. Octubre 2003. Ensenada, B.C.
 Corrientes por viento y gradientes de presión. Evaristo Rojas-Mayoral, Rafael Hernández-Walls. X Congreso Estudiantil de Oceanología. Octubre 2002. Ensenada, B.C.
 El mouse como dispositivo para la medición de variables oceanográficas. Premio a la mejor innovación tecnológica aplicada a la oceanología. Evaristo Rojas-Mayoral, Rafael Hernández-Walls. IX Congreso Estudiantil de Oceanología. Noviembre 2001. Ensenada, B.C.
-Experiencia Profesional
+
+## Experiencia Profesional
+
 Grupo de Ecología y Conservación de Islas
 Director de Ciencia de Datos.
 Desde 2014.
@@ -208,11 +207,12 @@ Estudio de dinámica costera para la construcción de un puerto en el área de C
 LORAX Consultores
 Abril 2003
 
-Habilidades
+## Habilidades
+
 Programación: MATLAB, Python y R.
 Idiomas: Español e inglés.
 
-Certificaciones para actividades acuáticas
+## Certificaciones para actividades acuáticas
 
 Curso de seguridad en plataformas y barcazas.
 Instituto de Educación Náutica y Portuaria.
