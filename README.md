@@ -6,6 +6,17 @@
 Desarrollamos análisis cuantitativos y herramientas computacionales que apoyan la restauración ecológica de ecosistemas insulares.
 Mi formación es en matemáticas, oceanografía física y programación. Mi misión es transformar datos complejos en decisiones estratégicas para el bienestar de las islas de México, con un enfoque en la reproducibilidad y la colaboración.
 
+## Áreas de especialidad
+
+- Ciencia de datos
+- Estadística computacional
+- Gestión de equipos interdisciplinarios
+- Inteligencia artificial
+- Investigación reproducible
+- Matemáticas aplicadas a la conservación
+- Oceanografía
+- Programación científica
+
 ## Estudios Profesionales y Técnicos
 
 **Maestría en Oceanografía Física.**\
@@ -340,17 +351,6 @@ Octubre 2003
 **Estudio de dinámica costera para la construcción de un puerto en el área de Costa Azul, B.C.**\
 _LORAX Consultores_\
 Abril 2003
-
-## Áreas de especialidad
-
-- Ciencia de datos
-- Estadística computacional
-- Gestión de equipos interdisciplinarios
-- Inteligencia artificial
-- Investigación reproducible
-- Matemáticas aplicadas a la conservación
-- Oceanografía
-- Programación científica
 
 ## Certificaciones para actividades acuáticas
 
