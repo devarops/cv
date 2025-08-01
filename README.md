@@ -4,8 +4,8 @@
 
 ## Estudios Profesionales y Técnicos
 
-Maestría en Oceanografía Física.
-Tesis: Estimación de la dirección del viento en el Golfo de Tehuantepec usando radares de alta frecuencia y algoritmos genéticos.
+**Maestría en Oceanografía Física.**\
+Tesis: _Estimación de la dirección del viento en el Golfo de Tehuantepec usando radares de alta frecuencia y algoritmos genéticos._<br>
 Centro de Investigación Científica y de Educación Superior de Ensenada (CICESE).
 Ensenada B.C. 2009.
 
