@@ -325,7 +325,7 @@ Febrero 2006
 _LORAX Consultores_\
 Febrero 2006
 
-**Diseño e implementación del sitio web http://www.lorax.com.mx**\
+**Desarrollo del sitio web http://www.lorax.com.mx **\
 _LORAX Consultores_\
 Mayo 2005
 
@@ -341,41 +341,47 @@ Octubre 2003
 _LORAX Consultores_\
 Abril 2003
 
-## Habilidades
+## Áreas de especialidad
 
-Programación: MATLAB, Python y R.
-Idiomas: Español e inglés.
+- Ciencia de datos
+- Estadística computacional
+- Gestión de equipos interdisciplinarios
+- Inteligencia artificial
+- Investigación reproducible
+- Matemáticas aplicadas a la conservación
+- Oceanografía
+- Programación científica
 
 ## Certificaciones para actividades acuáticas
 
-Curso de seguridad en plataformas y barcazas.
-Instituto de Educación Náutica y Portuaria.
+**Curso de seguridad en plataformas y barcazas.**\
+_Instituto de Educación Náutica y Portuaria._\
 Agosto 2007.
 
-Buzo de rescate (Rescue diver).
-PADI.
+**Buzo de rescate (Rescue diver).**\
+_PADI._\
 Enero 2005.
 
-Seguridad y medicina del buceo.
-CICESE.
+**Seguridad y medicina del buceo.**\
+_CICESE._\
 Septiembre 2004.
 
-Proveedor de oxígeno en accidentes de buceo.
-DAN.
+**Proveedor de oxígeno en accidentes de buceo.**\
+_DAN._\
 Septiembre 2004.
 
-Rescate en ríos.
-Bomberos Tijuana.
+**Rescate en ríos.**\
+_Bomberos Tijuana._\
 Octubre 2003.
 
-Buzo avanzado (Advanced open water diver).
-PADI.
+**Buzo avanzado (Advanced open water diver).**\
+_PADI._\
 Agosto 2003.
 
-Ambulancias aéreas, rescate aéreo y acuático.
-Secretaría de la Defensa Nacional.
+**Ambulancias aéreas, rescate aéreo y acuático.**\
+_Secretaría de la Defensa Nacional._\
 Agosto 2002.
 
-Salvamento acuático.
-Asociación de Salvavidas y Rescate del Estado de Baja California.
+**Salvamento acuático.**\
+_Asociación de Salvavidas y Rescate del Estado de Baja California._\
 Julio 2002.
