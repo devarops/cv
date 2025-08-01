@@ -40,68 +40,68 @@ Hermosillo, Son., 1998.
 
 ## Publicaciones Arbitradas
 
-**Rojas-Mayoral, E.**, Rojas-Mayoral, B., & Méndez-Sánchez, F. A. (2025).\
 **NERD: Numerical Estimation of Rodenticide Density.**\
+**Rojas-Mayoral, E.**, Rojas-Mayoral, B., & Méndez-Sánchez, F. A. (2025).\
 Journal of Open Source Software, 10(107), 6736.
 
-Méndez Sánchez, F; Y Bedolla Guzmán, **E Rojas-Mayoral**, A Aguirre-Muñoz, P Koleff, A Aguilar Vargas, F Álvarez Santana, G Arnaud, A Aztorga Ornelas, LF Beltrán Morales, M Bello Yáñez, H Berlanga García, E Bravo Hernández, A Cárdenas Tapia, A Castellanos Vera, M Corrales Sauceda, A Duarte Canizales, A Fabila Blanco, M Félix Lizárraga, A Fernández Robledo, JC Hernández Montoya, A Hernández Ríos, E Iñigo-Elias, Á Méndez Rosas, B Rojas Mayoral, F Solís Carlos, A Ortega-Rubio. (2022).\
 **Population trends of seabirds in Mexican Islands at the California Current System.**\
+Méndez Sánchez, F; Y Bedolla Guzmán, **E Rojas-Mayoral**, A Aguirre-Muñoz, P Koleff, A Aguilar Vargas, F Álvarez Santana, G Arnaud, A Aztorga Ornelas, LF Beltrán Morales, M Bello Yáñez, H Berlanga García, E Bravo Hernández, A Cárdenas Tapia, A Castellanos Vera, M Corrales Sauceda, A Duarte Canizales, A Fabila Blanco, M Félix Lizárraga, A Fernández Robledo, JC Hernández Montoya, A Hernández Ríos, E Iñigo-Elias, Á Méndez Rosas, B Rojas Mayoral, F Solís Carlos, A Ortega-Rubio. (2022).\
 PLOS ONE 17 (11):e0258632. DOI: 10.1371/journal.pone.0258632.
 
-Méndez Sánchez, F; A Aguirre-Muñoz, A Samaniego, Y Bedolla Guzmán, A Cárdenas Tapia, **E Rojas-Mayoral**, M Latofski Robles, P Koleff, A Castellanos Vera, G Arnaud Franco, LF Beltrán Morales, A Ortega-Rubio. (2021).\
 **Involvement of a Fishing Community in the Eradication of the Introduced Cactus Mouse (Peromyscus eremicus cedrosensis) from San Benito Oeste Island, Mexico.**\
+Méndez Sánchez, F; A Aguirre-Muñoz, A Samaniego, Y Bedolla Guzmán, A Cárdenas Tapia, **E Rojas-Mayoral**, M Latofski Robles, P Koleff, A Castellanos Vera, G Arnaud Franco, LF Beltrán Morales, A Ortega-Rubio. (2021).\
 Diversity. 13 (11):588.  DOI: 10.3390/d13110588.
 
-**Rojas-Mayoral, E**; Méndez-Sánchez, FA; Rojas-Mayoral, B; Aguirre-Muñoz, A. (2019).\
 **Improving the efficiency of aerial rodent eradications by means of the numerical estimation of rodenticide density.**\
+**Rojas-Mayoral, E**; Méndez-Sánchez, FA; Rojas-Mayoral, B; Aguirre-Muñoz, A. (2019).\
 Island invasives: scaling up to meet the challenge. 62:47.
 
-Hernández Montoya, JC; Juárez-Rodríguez, M; Méndez-Sánchez, F; Aguirre-Muñoz, A; **Rojas-Mayoral, E**; Íñigo-Elias, E; Galina-Tessaro, P; Arnaud, G; Ortega-Rubio, A. (2019).\
 **Sexual Dimorphism and Foraging Trips of the Laysan Albatross (Phoebastria immutabilis) on Guadalupe Island.**\
+Hernández Montoya, JC; Juárez-Rodríguez, M; Méndez-Sánchez, F; Aguirre-Muñoz, A; **Rojas-Mayoral, E**; Íñigo-Elias, E; Galina-Tessaro, P; Arnaud, G; Ortega-Rubio, A. (2019).\
 Animals. 9(6):364.
 
-Bedolla-Guzmán, Y; Méndez-Sánchez, F; Aguirre-Muñoz, A; Félix-Lizárraga, M; Fabila-Blanco, A; Bravo-Hernández, E; Hernández-Ríos, A; Corrales-Sauceda, M; Aguilar-Vargas, A; Aztorga-Ornelas, A; Solís-Carlos, F; Torres-García, F; Luna-Mendoza, L; Ortiz-Alcaraz, A; Hernández-Montoya, JH; Latofski-Robles, M; **Rojas-Mayoral, E**; Cárdenas-Tapia, A. (2019).\
 **Recovery and current status of seabirds on the Baja California Pacific Islands, Mexico, following restoration actions.**\
+Bedolla-Guzmán, Y; Méndez-Sánchez, F; Aguirre-Muñoz, A; Félix-Lizárraga, M; Fabila-Blanco, A; Bravo-Hernández, E; Hernández-Ríos, A; Corrales-Sauceda, M; Aguilar-Vargas, A; Aztorga-Ornelas, A; Solís-Carlos, F; Torres-García, F; Luna-Mendoza, L; Ortiz-Alcaraz, A; Hernández-Montoya, JH; Latofski-Robles, M; **Rojas-Mayoral, E**; Cárdenas-Tapia, A. (2019).\
 Island invasives: scaling up to meet the challenge. 62:531.
 
-Ortiz-Alcaraz, A; Aguirre-Muñoz, A; Méndez-Sánchez, F; **Rojas-Mayoral, E**; Solís-Carlos, F; Rojas-Mayoral, B; Benavides-Ríos, E; Hall, S; Nevins, H; Ortega-Rubio, A. (2019).\
 **Ecological restoration of Socorro Island, Revillagigedo Archipelago, Mexico: the eradication of feral sheep and cats.**\
+Ortiz-Alcaraz, A; Aguirre-Muñoz, A; Méndez-Sánchez, F; **Rojas-Mayoral, E**; Solís-Carlos, F; Rojas-Mayoral, B; Benavides-Ríos, E; Hall, S; Nevins, H; Ortega-Rubio, A. (2019).\
 Island invasives: scaling up to meet the challenge. 62:267.
 
-Aguirre-Muñoz, A; Bedolla-Guzmán, Y; Hernández-Montoya, J; Latofski-Robles, M; Luna-Mendoza, L; Méndez-Sánchez, F; Ortiz-Alcaraz, A; **Rojas-Mayoral, E**; Samaniego-Herrera, A. (2018).\
 **The Conservation and Restoration of the Mexican Islands, a Successful Comprehensive and Collaborative Approach Relevant for Global Biodiversity.**\
+Aguirre-Muñoz, A; Bedolla-Guzmán, Y; Hernández-Montoya, J; Latofski-Robles, M; Luna-Mendoza, L; Méndez-Sánchez, F; Ortiz-Alcaraz, A; **Rojas-Mayoral, E**; Samaniego-Herrera, A. (2018).\
 Mexican Natural Resources Management and Biodiversity Conservation. 177-192.
 
-Samaniego-Herrera, A; Aguirre-Muñoz, A; Bedolla-Guzmán, Y; Cárdenas-Tapia, A; Félix-Lizárraga, M; Méndez-Sánchez, F; Reina-Ponce, O; **Rojas-Mayoral, E**; Torres-García, F. (2018).\
 **Eradicating invasive rodents from wet and dry tropical islands in Mexico.**\
+Samaniego-Herrera, A; Aguirre-Muñoz, A; Bedolla-Guzmán, Y; Cárdenas-Tapia, A; Félix-Lizárraga, M; Méndez-Sánchez, F; Reina-Ponce, O; **Rojas-Mayoral, E**; Torres-García, F. (2018).\
 Oryx. 52(3):559-570.
 
-Ortiz-Alcaraz, A; Aguirre-Muñoz, A; Arnaud, G; Galina-Tessaro, P; **Rojas-Mayoral, E**; Méndez-Sánchez, F; Ortega-Rubio, A. (2017).\
 **Progress in the eradication of the feral cat (Felis catus) and recovery of the native fauna on Socorro Island, Revillagigedo Archipelago, Mexico.**\
+Ortiz-Alcaraz, A; Aguirre-Muñoz, A; Arnaud, G; Galina-Tessaro, P; **Rojas-Mayoral, E**; Méndez-Sánchez, F; Ortega-Rubio, A. (2017).\
 Therya. 8(1):3-9.
 
-Ortíz-Alcaraz, A; Maya-Delgado, Y; Cortés-Calva, P; Aguirre-Muñoz, A; **Rojas-Mayoral, E**; Cordoba-Matson, MV; Ortega-Rubio, A. (2016).\
 **Recovery of vegetation cover and soil after the removal of sheep in Socorro Island, Mexico.**\
+Ortíz-Alcaraz, A; Maya-Delgado, Y; Cortés-Calva, P; Aguirre-Muñoz, A; **Rojas-Mayoral, E**; Cordoba-Matson, MV; Ortega-Rubio, A. (2016).\
 Forests. 7(4):91.
 
-M. Muñoz-Anderson, R. Millán-Núñez, R. Hernández-Walls, A. González-Silvera, E. Santamaría-del-Ángel, **E. Rojas-Mayoral**, S. Galindo-Bect  (2015).\
 **Fitting vertical chlorophyll profiles in the California Current using two Gaussian curves.**\
+M. Muñoz-Anderson, R. Millán-Núñez, R. Hernández-Walls, A. González-Silvera, E. Santamaría-del-Ángel, **E. Rojas-Mayoral**, S. Galindo-Bect  (2015).\
 Limnology and Oceanography: Methods. 13: 416–424 DOI: 10.1002/lom3.10034.
 
-R. Hernández-Walls, **E. Rojas-Mayoral**, P.K. Barba Rojo (2015).\
 **Diseño de práctica de laboratorio para uso de la creatividad: Canal de olas.**\
+R. Hernández-Walls, **E. Rojas-Mayoral**, P.K. Barba Rojo (2015).\
 Revista Mexicana de Física E. 61(1) (2015) 1.
 
-Hernández-Walls R, Castillo J, **Rojas-Mayoral E**, Girón-Nava JA (2014).\
 **Semi-discrete numeric solution for the non-stationary heat equation using mimetic techniques.**\
+Hernández-Walls R, Castillo J, **Rojas-Mayoral E**, Girón-Nava JA (2014).\
 European Journal of Physics. 35(6):065013 DOI: 10.1088/0143-0807/35/6/065013.
 
-Hernández-Walls R, **Rojas-Mayoral E**, Baéz-Castillo L, Rojas-Mayoral B. (2008).\
 **Design and calibration of an inexpensive digital anemometer.**\
+Hernández-Walls R, **Rojas-Mayoral E**, Baéz-Castillo L, Rojas-Mayoral B. (2008).\
 Physics Education. 43(6):593-598 DOI: 10.1088/0031-9120/43/6/005.
 
-Hernández-Walls R, Luna-Hernández JR, **Rojas-Mayoral E**, Navarro-Olache LF. (2004).\
 **Dispositivo electrónico de fácil construcción para medir la velocidad de un fluido.**\
+Hernández-Walls R, Luna-Hernández JR, **Rojas-Mayoral E**, Navarro-Olache LF. (2004).\
 Ingeniería hidráulica en México. 19(4):121-128.
 
 ## Participación en Comités de Tesis
@@ -293,7 +293,7 @@ _Grupo de Ecología y Conservación de Islas, A.C._\
 Agosto 2013
 
 **Estudios batimétricos en el puerto de El Sauzal, B.C.**\
-_LORAX Consultores_\
+_Lorax Consultores_\
 Diciembre 2012
 
 **Simulación numérica del oleaje frente a la Bahía de San Quintín, B.C.**\
@@ -317,11 +317,11 @@ _Proyectos Digitales_\
 Febrero 2010
 
 **Modelación de la dinámica costera alrededor de un puerto en Tuxpan, Ver.**\
-_LORAX Consultores_\
+_Lorax Consultores_\
 Diciembre 2009
 
 **Revisión de los parámetros de diseño de las estructuras del proyecto de desarrollo del puerto de El Sauzal, B.C.**\
-_LORAX Consultores_\
+_Lorax Consultores_\
 Noviembre 2009
 
 **Simulación numérica del oleaje para probar una estructura costera en Primo Tapia B.C.**\
@@ -329,7 +329,7 @@ _Proyectos Digitales_\
 Mayo 2009
 
 **Programa de Manejo de la Erosión Costera en la Celda Litoral III de la Bahía de Todos Santos, Baja California (ProMEC-III)**\
-_LORAX Consultores_\
+_Lorax Consultores_\
 Septiembre 2008
 
 **Estudios batimétricos en el área de Costa Azul, B. C.**\
@@ -345,15 +345,15 @@ _Grupo de Ecología y Conservación de Islas, A.C._\
 Abril 2006
 
 **Actualización de estudios de dinámica costera para la construcción de un puerto en el área de Costa Azul, B. C.**\
-_LORAX Consultores_\
+_Lorax Consultores_\
 Febrero 2006
 
 **Recolección de muestras de sedimentos intermareales, para análisis de hidrocarburos y fauna en la Playa Municipal de Ensenada, B. C.**\
-_LORAX Consultores_\
+_Lorax Consultores_\
 Febrero 2006
 
 **Desarrollo del sitio web `www.lorax.com.mx`**\
-_LORAX Consultores_\
+_Lorax Consultores_\
 Mayo 2005
 
 **Simulación numérica del oleaje para probar una estructura costera en Rosarito, B.C.**\
@@ -361,11 +361,11 @@ _Proyectos Digitales_\
 Diciembre 2004
 
 **Determinación de climatología del oleaje y parámetros de diseño para la construcción de obras costeras en Bahía Salsipuedes, B. C.**\
-_LORAX Consultores_\
+_Lorax Consultores_\
 Octubre 2003
 
 **Estudio de dinámica costera para la construcción de un puerto en el área de Costa Azul, B.C.**\
-_LORAX Consultores_\
+_Lorax Consultores_\
 Abril 2003
 
 ## Certificaciones para actividades acuáticas
