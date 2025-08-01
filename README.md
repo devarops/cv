@@ -106,13 +106,13 @@ Ingeniería hidráulica en México. 19(4):121-128.
 
 ## Participación en Comités de Tesis
 
-_Identificación de estructuras coherentes lagrangianas presentes en la Bahía de Todos Santos, Baja California, con información de radares de alta frecuencia._\
-Director del comité de tesis de **Oceanología (licenciatura)** de\
+**Identificación de estructuras coherentes lagrangianas presentes en la Bahía de Todos Santos, Baja California, con información de radares de alta frecuencia.**\
+Director del comité de tesis de **Licenciatura en Oceanología** de\
 Luis Daniel Quinn-Cervantes.\
 Facultad de Ciencias Marinas, UABC.\
 Mayo 2015. Ensenada, B.C.
 
-_Texturas para las matrices de masa de los quarks fenomenológicamente viables._\
+**Texturas para las matrices de masa de los quarks fenomenológicamente viables.**\
 Vocal del Jurado en el Examen Profesional de **Licenciatura en Física** de\
 Braulio Rojas-Mayoral.\
 Departamento de Física, Universidad de Sonora.\
