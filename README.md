@@ -10,12 +10,11 @@ My mission is to transform complex data into strategic decisions for the well-be
 ## Areas of Expertise
 
 - Data science
+- Applied mathematics for conservation
 - Computational statistics
 - Management of interdisciplinary teams
-- Artificial intelligence
-- Reproducible research
-- Applied mathematics for conservation
 - Oceanography
+- Reproducible research
 - Scientific programming
 
 ## Professional and Technical Studies

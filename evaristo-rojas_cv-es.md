@@ -12,7 +12,6 @@ Mi misión es transformar datos complejos en decisiones estratégicas para el bi
 - Ciencia de datos
 - Estadística computacional
 - Gestión de equipos interdisciplinarios
-- Inteligencia artificial
 - Investigación reproducible
 - Matemáticas aplicadas a la conservación
 - Oceanografía
